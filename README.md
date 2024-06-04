@@ -5,8 +5,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/computational-neurology/workshop2024/HEAD)
 
 ## If Binder does not work: Run with Colab
-[![Open 00_PythonIntro](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/00_introduction_to_Python.ipynb)
-[![Open 01_PythonIntro](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/00_introduction_to_Python.ipynb)
+[00_Python_Intro](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/00_introduction_to_Python.ipynb)
+[01_fMRI_Intro](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/01_introduction_to_fMRI.ipynb)
 
 ---
 # Setting up the tutorial environment
