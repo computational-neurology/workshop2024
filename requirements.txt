@@ -1,6 +1,5 @@
-awscli==1.18.101
 matplotlib
 nilearn==0.7.0
 pandas
 pybids==0.11.1
-seaborn
+jupyter>=1.0.0
