@@ -1,7 +1,7 @@
 # Computational Neurology Workshop 2024
 [tinyurl.com/compneurology ](https://tinyurl.com/compneurology)
 
-## Content to run tutorial "Functional connectivity"
+## Content to run Workshop "Computational Neurology"
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/computational-neurology/workshop2024/HEAD)
 
 ---
