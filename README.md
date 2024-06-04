@@ -4,6 +4,8 @@
 ## Content to run Workshop "Computational Neurology"
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/computational-neurology/workshop2024/HEAD)
 
+## Run with Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/00_introduction_to_Python.ipynb)
 ---
 # Setting up the tutorial environment
 
