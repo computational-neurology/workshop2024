@@ -1,13 +1,8 @@
-# fMRI lab 2022
-tinyurl.com/fmrilab 
-
-## Please introduce yourself
-- Name
-- Previous neuroimaging and programming experience (Python)
-- Special interests
+# Computational Neurology Workshop 2024
+[tinyurl.com/compneurology ](https://tinyurl.com/compneurology)
 
 ## Content to run tutorial "Functional connectivity"
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dr-xenia/fmri_lab/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dr-xenia/computational-neurology/HEAD)
 
 ---
 # Setting up the tutorial environment
@@ -19,7 +14,7 @@ Using Binder is the easiest and fastest way to get started with the workshop. Bi
 ### Setting up Binder
 
 
-Click the link here to spin up the workshop environment: [Binder Workshop](https://mybinder.org/v2/gh/dr-xenia/fmri_lab/HEAD)]
+Click the link here to spin up the workshop environment: [Binder Workshop](https://mybinder.org/v2/gh/dr-xenia/computational-neurology/HEAD)]
 You will see an interface that looks like the following:
 
 ![JupyterHub](./fig/jupyterhub.png)
