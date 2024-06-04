@@ -2,7 +2,7 @@
 [tinyurl.com/compneurology ](https://tinyurl.com/compneurology)
 
 ## Content to run tutorial "Functional connectivity"
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dr-xenia/computational-neurology/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/computational-neurology/workshop2024/HEAD)
 
 ---
 # Setting up the tutorial environment
@@ -14,7 +14,7 @@ Using Binder is the easiest and fastest way to get started with the workshop. Bi
 ### Setting up Binder
 
 
-Click the link here to spin up the workshop environment: [Binder Workshop](https://mybinder.org/v2/gh/dr-xenia/computational-neurology/HEAD)]
+Click the link here to spin up the workshop environment: [Binder Workshop](https://mybinder.org/v2/gh/computational-neurology/workshop2024/HEAD)]
 You will see an interface that looks like the following:
 
 ![JupyterHub](./fig/jupyterhub.png)
