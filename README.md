@@ -21,4 +21,5 @@ Then, you can start the notebook by running:
 ```
 jupyter notebook [Enter Name of Notebook here].ipynb
 ```
-
+## Evaluation (after each session, thank you!)
+https://tinyurl.com/evalday0
