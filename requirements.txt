@@ -1,5 +1,5 @@
 matplotlib
-nilearn==0.10.0
+nilearn
 pandas
 pybids==0.11.1
 jupyter>=1.0.0
