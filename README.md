@@ -1,22 +1,24 @@
 # Computational Neurology Workshop 2024
 [tinyurl.com/compneurology ](https://tinyurl.com/compneurology)
 
-## Content to run tutorial "Functional connectivity"
+## Content to run Workshop "Computational Neurology"
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/computational-neurology/workshop2024/HEAD)
 
----
-# Setting up the tutorial environment
+## BackUp: If Binder does not work: Run with Colab
+[00_Python_Intro](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/00_introduction_to_Python.ipynb)\
 
-## Binder
+[01_fMRI_Intro](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/01_introduction_to_fMRI.ipynb)
 
-Using Binder is the easiest and fastest way to get started with the workshop. Binder is a virtual environment containing the full computing environment required in order to go through the workshop. Note that Binder hosts the environment on a cloud server and therefore internet access is required to launch it.
+## Local option (for those who have Pip installed)
+To run this workshop on your own computer, clone (or download) this repository. Then, assuming you have pip installed, run the following line in a terminal (in the root of this repository):
 
-### Setting up Binder
+```
+pip install -r requirements.txt
+```
 
+Then, you can start the notebook by running:
 
-Click the link here to spin up the workshop environment: [Binder Workshop](https://mybinder.org/v2/gh/computational-neurology/workshop2024/HEAD)]
-You will see an interface that looks like the following:
+```
+jupyter notebook [Enter Name of Notebook here].ipynb
+```
 
-![JupyterHub](./fig/jupyterhub.png)
-
-The left-hand pane shows a list of workshop notebooks that contain the content of the workshop itself. Please click on "code" and then on "fMRI_lab.ipynb" to start the notebook. 
