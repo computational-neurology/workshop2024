@@ -3,3 +3,5 @@ nilearn
 pandas
 pybids==0.11.1
 jupyter>=1.0.0
+neurolib
+scipy
