@@ -24,4 +24,4 @@ Then, you can start the notebook by running:
 jupyter notebook [Enter Name of Notebook here].ipynb
 ```
 ## Evaluation (after each session, thank you!)
-https://tinyurl.com/evalday0
+[Evaluation_Day2](https://cryptpad.digitalcourage.de/form/#/2/form/view/yMLROZMzeut-tRCHdA+COz9BUXmEJoSq0seD5e2uc58/embed/)
