@@ -2,7 +2,7 @@
 [tinyurl.com/compneurology ](https://tinyurl.com/compneurology)
 
 ## BackUp: If Binder does not work: Run with Colab
-[00_Python_Intro](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/00_introduction_to_Python.ipynb)    \
+[00_Python_Intro](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/00_introduction_to_Python.ipynb)    
 
 [01_fMRI_Intro](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/01_introduction_to_fMRI.ipynb)
 
