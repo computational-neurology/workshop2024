@@ -26,3 +26,6 @@ jupyter notebook [Enter Name of Notebook here].ipynb
 ```
 ## Evaluation (after each session, thank you!)
 [Evaluation_Day3](https://cryptpad.digitalcourage.de/form/#/2/form/view/Lj9w2LTwjBIYGQ3Q2m0KZJ4jmX9Zj+9HyK-ZepjkaCE/)
+
+## Course assignment 
+Please download the Self_reflection2024.docx file from this folder and complete the assignment until 07.08.2024. Send the assignment to: mail@computationalneurology.com
