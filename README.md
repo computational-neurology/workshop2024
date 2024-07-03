@@ -10,6 +10,8 @@
 
 [03_Network dynamics](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/03_network.ipynb)
 
+[04_Group work](https://colab.research.google.com/github/computational-neurology/workshop2024/blob/master/04_group_work.ipynb)
+
 ## Local option (for those who have Pip installed)
 To run this workshop on your own computer, clone (or download) this repository. Then, assuming you have pip installed, run the following line in a terminal (in the root of this repository):
 
